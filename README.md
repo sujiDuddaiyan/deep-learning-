@@ -1,6 +1,6 @@
 # deep-learning-
 Linear regression
-The dataset taken from the source of data.gov.in website in the sector of science and technology .
+The dataset taken from  **the source of data.gov.in website** in the sector of science and technology .
 **Dataset :** Rainfall in all India and its departure from normal for Monsoon session from 1901-2021. 
 **Dataset description**This dataset contains 6 attributes and 121 instances. 
 **problem statement :** Analysing the depature of rainfall in monsoon season.
